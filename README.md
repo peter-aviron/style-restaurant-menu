@@ -1,0 +1,1 @@
+Follow the comments in `src/style1.css` and `src/style2.css` to recreate the menus shown in the `src/img/completed-screenshot1.jpg` and `src/img/completed-screenshot2.jpg`
